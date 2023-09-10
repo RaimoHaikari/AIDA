@@ -8,3 +8,4 @@ Löytyy mm.
 - [dt-accessorin](05_ts_sales_data_categories) käyttö
 - sarakkeiden sisältämien [NA-arvojen laskeminen](08_ml_predict_sales)
 - [regressiomallin mittarit](08_ml_predict_sales)
+- luokittelumallin tarkkuuden [sklearn-raportti](10_ml_revenue_classification)
